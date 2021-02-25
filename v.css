@@ -1,0 +1,32 @@
+*{margin: 0; padding: 0;}
+.v{
+	padding:0;
+	list-style-type:none;
+	width:100%;
+	background:#660066;
+	border-bottom::#ffffff;
+	min-height:40px;
+}
+.v li{
+	float:left;
+	left:0;
+	border-bottom:#ffffff;
+}
+
+.v li a{
+	padding:10px 5px;
+	text-decoration:none;
+	color:#ffffff;
+	background:#660066;
+	display:block;
+	width:170px;
+	text-align:center;
+	
+}
+.v li a:hover{
+	color:#660066;
+	background:#ffffff;
+}
+#img{width: 100%;}
+.footer{text-align: center; color: #ffffff; min-height: 20px; padding: 5px;
+background-color: #800000;}
